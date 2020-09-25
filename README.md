@@ -22,7 +22,7 @@ Here are some ideas to get you started:
    * [Arquitectura de computadores](https://github.com/AlexMolina08/ipod.git)
    * [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
    * [Sistemas Concurrentes y distribuidos] 
-   * [![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+   * [![SO](https://www.iconfinder.com/data/icons/font-awesome/1792/linux-512.png)](https://github.com/AlexMolina08/Practicas_SO.git)
   
 
 ### 🔭 I’m currently working on ...
