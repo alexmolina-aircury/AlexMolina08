@@ -18,12 +18,12 @@ Here are some ideas to get you started:
    https://github.com/AlexMolina08/Practicas_SO.git
    https://github.com/AlexMolina08/OPEN_MPI.git
    https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git <img
-   * [sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
+   * <img src="https://www.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png" width="25" height="25">[sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
    * [Arquitectura de computadores](https://github.com/AlexMolina08/ipod.git)
    * [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
    * [Sistemas Concurrentes y distribuidos] 
    * [![SO](https://www.iconfinder.com/data/icons/font-awesome/1792/linux-512.png | width=48)](https://github.com/AlexMolina08/Practicas_SO.git)
-   * <img src="https://www.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png" width="100" height="100">
+   * <img src="https://www.iconfinder.com/data/icons/system-shade-circles/512/ubuntu-512.png" width="25" height="25">
   
 
 ### 🔭 I’m currently working on ...
