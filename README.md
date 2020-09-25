@@ -11,14 +11,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-I am **Alex Molina** ([@mianfg](https://mianfg.me)), a University student based in Granada, Spain. 
+I am **Alex Molina** ([@AlexMolina08]), a University student based in Granada, Spain. 
 
 ### 🎓 I'm currently enrolled in ...
 
 * **Computer Science**. Universidad de Granada. Granada, Spain.
-  > To ease things for future students and publish some of the interesting things I have made as part of my career, I have decided to publish all the content I have produced [here](https://github.com/mianfg/DGIIM).
+  > Here i'll publish some practices of my degree
+   https://github.com/AlexMolina08/Practicas_SO.git
+   https://github.com/AlexMolina08/OPEN_MPI.git
+   https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git
+  
 
 ### 🔭 I’m currently working on ...
+https://github.com/AlexMolina08/Calculadora_IMC.git
+https://github.com/AlexMolina08/ipod.git
 
 
 
