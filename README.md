@@ -21,8 +21,8 @@ Here are some ideas to get you started:
   
 
 ### 🔭 I’m currently working on ...
-https://github.com/AlexMolina08/Calculadora_IMC.git
-https://github.com/AlexMolina08/ipod.git
+* [Calculadora IMC](https://github.com/AlexMolina08/Calculadora_IMC.git)
+* [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
 
 ### 🔨 Projects
 https://github.com/AlexMolina08/Albaicin-Adventures.git
