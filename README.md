@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-I am **Alex Molina** ([@AlexMolina08]), a University student based in Granada, Spain. 
-
 ### 🎓 I'm currently enrolled in ...
 
 * **Computer Science**. Universidad de Granada. Granada, Spain.
@@ -26,9 +24,15 @@ I am **Alex Molina** ([@AlexMolina08]), a University student based in Granada, S
 https://github.com/AlexMolina08/Calculadora_IMC.git
 https://github.com/AlexMolina08/ipod.git
 
+### 🔨 Projects
+https://github.com/AlexMolina08/Albaicin-Adventures.git
+https://github.com/AlexMolina08/Preguntas-App
+https://github.com/AlexMolina08/Skate_Shop
+https://github.com/AlexMolina08/world_time_app
 
 
 ### 💬 My main interests are / 🌱 I’m currently learning ...
+
 
 
 ### 👷 I work with ...
