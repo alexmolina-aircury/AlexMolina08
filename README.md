@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    * [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
    * [Sistemas Concurrentes y distribuidos] 
    * [![SO](https://www.iconfinder.com/data/icons/font-awesome/1792/linux-512.png | width=48)](https://github.com/AlexMolina08/Practicas_SO.git)
-   * <img src="https://www.iconfinder.com/data/icons/font-awesome/1792/linux-512.png">
+   * <img src="https://www.iconfinder.com/data/icons/font-awesome/1792/linux-512.png" width="150" height="100">
   
 
 ### 🔭 I’m currently working on ...
