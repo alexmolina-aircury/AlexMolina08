@@ -18,6 +18,11 @@ Here are some ideas to get you started:
    https://github.com/AlexMolina08/Practicas_SO.git
    https://github.com/AlexMolina08/OPEN_MPI.git
    https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git
+   * [sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
+   * [Arquitectura de computadores](https://github.com/AlexMolina08/ipod.git)
+   * [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
+   * [Sistemas Concurrentes y distribuidos] 
+   * [![Python](https://img.shields.io/badge/python-%233776ab.svg?&style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   
 
 ### 🔭 I’m currently working on ...
