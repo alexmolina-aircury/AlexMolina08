@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    * <img src="https://cdn.icon-icons.com/icons2/145/PNG/256/memory_ram_hardware_21433.png" width="25" height="25">  [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
    
    
-   * <img src="https://icon-library.com/images/parallel-icon/parallel-icon-10.jpg" width="25" height="25">  [Sistemas Concurrentes y distribuidos] 
+   * <img src="https://icon-library.com/images/parallel-icon/parallel-icon-10.jpg" width="25" height="25">  [Sistemas Concurrentes y distribuidos](https://github.com/AlexMolina08/Sistemas_Concurrentes_Distribuidos.git) 
    
   
 
