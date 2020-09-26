@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 * <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [Albaicin Adventures](https://github.com/AlexMolina08/Calculadora_IMC.git)
 
 * https://github.com/AlexMolina08/Preguntas-App
-<img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">  [Preguntas App](https://github.com/AlexMolina08/Calculadora_IMC.git)
+<img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">  [Quiz App](https://github.com/AlexMolina08/Calculadora_IMC.git)
 https://github.com/AlexMolina08/Skate_Shop
 https://github.com/AlexMolina08/world_time_app
 
 
-### 💬 My main interests are / 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 
-
+[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  [![Javascript](https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white)]
 
 ### 👷 I work with ...
 
