@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 *  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-cafaa6fde22359df59d31a4928f62193-ipod.png" width="25" height="25">  [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
 
 ### 🔨 Projects
-* <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [**Albaicin Adventures**](https://github.com/AlexMolina08/Calculadora_IMC.git)
+* <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
    > A choose your own adventure game based on Albaicin for Android and ios
 
 * <img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">  [**Quiz Game**](https://github.com/AlexMolina08/Preguntas-App.git)
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 * <img src="https://images.vexels.com/media/users/3/132153/isolated/preview/2b07e0f940d92cdf0b02e0256417d93b-skating-circle-icon-by-vexels.png" width="25" height="25">  [**Skate Shop UI**](https://github.com/AlexMolina08/Skate_Shop.git)
    > A simple Skate Shop app UI 
   
- * <img src="https://cdn.pixabay.com/photo/2018/08/20/19/19/clock-3619716_960_720.png" width="25" height="25">  [**World Time App**](https://github.com/AlexMolina08/world_time_app)
+ * <img src="https://cdn.pixabay.com/photo/2018/08/20/19/19/clock-3619716_960_720.png" width="25" height="25">  [**World Time App**](https://github.com/AlexMolina08/world_time_app.git)
    > An app that shows the time in different cities around the world using **World time API**
   
 
