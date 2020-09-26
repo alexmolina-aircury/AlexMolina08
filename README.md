@@ -44,7 +44,7 @@ https://github.com/AlexMolina08/world_time_app
 
 ### 🌱 I’m currently learning ...
 
-[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  ![Javascript](https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  (https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ### 👷 I work with ...
 
