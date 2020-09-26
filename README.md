@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 *  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-cafaa6fde22359df59d31a4928f62193-ipod.png" width="25" height="25">  [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
 
 ### 🔨 Projects
-https://github.com/AlexMolina08/Albaicin-Adventures.git
-<img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [Albaicin Adventures](https://github.com/AlexMolina08/Calculadora_IMC.git)
-https://github.com/AlexMolina08/Preguntas-App
+* <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [Albaicin Adventures](https://github.com/AlexMolina08/Calculadora_IMC.git)
+
+* https://github.com/AlexMolina08/Preguntas-App
+<img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">  [Preguntas App](https://github.com/AlexMolina08/Calculadora_IMC.git)
 https://github.com/AlexMolina08/Skate_Shop
 https://github.com/AlexMolina08/world_time_app
 
