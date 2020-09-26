@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">  [sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
    
    
-   * 💻  [Arquitectura de computadores](https://github.com/AlexMolina08/ipod.git)
+   * 💻  [Arquitectura de computadores](https://github.com/AlexMolina08/OPEN_MPIt)
    
    
    * <img src="https://cdn.icon-icons.com/icons2/145/PNG/256/memory_ram_hardware_21433.png" width="25" height="25">  [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   
 
 ### 🔭 I’m currently working on ...
-* [Calculadora IMC](https://github.com/AlexMolina08/Calculadora_IMC.git)
-* [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
+*  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/pocket-calculator_1f5a9.png" width="25" height="25">  [Calculadora IMC](https://github.com/AlexMolina08/Calculadora_IMC.git)
+*  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-cafaa6fde22359df59d31a4928f62193-ipod.png" width="25" height="25">  [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
 
 ### 🔨 Projects
 https://github.com/AlexMolina08/Albaicin-Adventures.git
