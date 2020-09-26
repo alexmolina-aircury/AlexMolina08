@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 ### 🔨 Projects
 https://github.com/AlexMolina08/Albaicin-Adventures.git
+<img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [Albaicin Adventures](https://github.com/AlexMolina08/Calculadora_IMC.git)
 https://github.com/AlexMolina08/Preguntas-App
 https://github.com/AlexMolina08/Skate_Shop
 https://github.com/AlexMolina08/world_time_app
