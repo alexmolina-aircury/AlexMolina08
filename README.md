@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### 🎓 I'm currently enrolled in ...
 
 * **Computer Science**. Universidad de Granada. Granada, Spain.
-  > Here i'll publish some practices of my degree
+  > Here I'll publish some practices of my degree , feel free to take a look!
    
    * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">  [sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
    
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
    
    * <img src="https://icon-library.com/images/parallel-icon/parallel-icon-10.jpg" width="25" height="25">  [Sistemas Concurrentes y distribuidos](https://github.com/AlexMolina08/Sistemas_Concurrentes_Distribuidos.git) 
    
+   * <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" width="25" height="25"> [Programación y Diseño orientado a objetos](https://github.com/AlexMolina08/CivitasJava.git)
+   
   
 
 ### 🔭 I’m currently working on ...
@@ -34,11 +36,18 @@ Here are some ideas to get you started:
 *  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-cafaa6fde22359df59d31a4928f62193-ipod.png" width="25" height="25">  [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
 
 ### 🔨 Projects
-* <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [Albaicin Adventures](https://github.com/AlexMolina08/Calculadora_IMC.git)
+* <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">  [**Albaicin Adventures**](https://github.com/AlexMolina08/Calculadora_IMC.git)
+  > A choose your own adventure game based on Albaicin for Android and ios
 
-* https://github.com/AlexMolina08/Preguntas-App
-<img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">  [Quiz App](https://github.com/AlexMolina08/Calculadora_IMC.git)
-https://github.com/AlexMolina08/Skate_Shop
+* <img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">  [**Quiz Game**](https://github.com/AlexMolina08/Preguntas-App.git)
+  > A quiz app that take the track of your answers
+  
+* <img src="https://images.vexels.com/media/users/3/132153/isolated/preview/2b07e0f940d92cdf0b02e0256417d93b-skating-circle-icon-by-vexels.png" width="25" height="25">  [**Quiz Game**](https://github.com/AlexMolina08/Skate_Shop.git)
+  > A simple Skate Shop app UI 
+  
+ * <img src="https://cdn.pixabay.com/photo/2018/08/20/19/19/clock-3619716_960_720.png" width="25" height="25">  [**Quiz Game**](https://github.com/AlexMolina08/world_time_app)
+  > An app that shows the time in different cities around the world using **World time API**
+  
 https://github.com/AlexMolina08/world_time_app
 
 
