@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 * **Computer Science**. Universidad de Granada. Granada, Spain.
   > Here i'll publish some practices of my degree
-   https://github.com/AlexMolina08/Practicas_SO.git
-   https://github.com/AlexMolina08/OPEN_MPI.git
-   https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git <img
+   
    * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">  [sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
    
    
