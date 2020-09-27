@@ -16,18 +16,20 @@ Here are some ideas to get you started:
 * **Computer Science**. Universidad de Granada. Granada, Spain.
   > Here I'll publish some practices of my degree , feel free to take a look!
    
-   * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">  [sistemas Operativos](https://github.com/AlexMolina08/Practicas_SO.git )
+   * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">  [**sistemas Operativos**](https://github.com/AlexMolina08/Practicas_SO.git )
    
    
-   * 💻  [Arquitectura de computadores](https://github.com/AlexMolina08/OPEN_MPIt)
+   * 💻  [**Arquitectura de computadores**](https://github.com/AlexMolina08/OPEN_MPIt)
    
+   * <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148" width="25" height="25"> [**Estructura de Computadores**](https://github.com/AlexMolina08/Estructura_De_Computadores.git)
    
-   * <img src="https://cdn.icon-icons.com/icons2/145/PNG/256/memory_ram_hardware_21433.png" width="25" height="25">  [Metodología de la Programación](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
+   * <img src="https://cdn.icon-icons.com/icons2/145/PNG/256/memory_ram_hardware_21433.png" width="25" height="25">  [**Metodología de la Programación**](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
    
+
+   * <img src="https://icon-library.com/images/parallel-icon/parallel-icon-10.jpg" width="25" height="25">  [**Sistemas Concurrentes y distribuidos**](https://github.com/AlexMolina08/Sistemas_Concurrentes_Distribuidos.git) 
    
-   * <img src="https://icon-library.com/images/parallel-icon/parallel-icon-10.jpg" width="25" height="25">  [Sistemas Concurrentes y distribuidos](https://github.com/AlexMolina08/Sistemas_Concurrentes_Distribuidos.git) 
+   * <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" width="25" height="25"> [**Programación y Diseño orientado a objetos**](https://github.com/AlexMolina08/CivitasJava.git)
    
-   * <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" width="25" height="25"> [Programación y Diseño orientado a objetos](https://github.com/AlexMolina08/CivitasJava.git)
    
   
 
