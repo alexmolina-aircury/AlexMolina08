@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning ...
 
-[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  <img src = "https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white">
+[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  <img src = "https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white">  [![Inkscape](https://img.shields.io/badge/Dart-%23616161.svg?&style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/es)
 
 ### 👷 I work with ...
 
