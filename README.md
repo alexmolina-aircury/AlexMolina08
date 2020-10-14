@@ -51,7 +51,7 @@ Here are some ideas to get you started:
    > An app that shows the time in different cities around the world using **World time API**
    
  * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/pocket-calculator_1f5a9.png" width="25" height="25">  [**Calculadora IMC**](https://github.com/AlexMolina08/Calculadora_IMC.git)
-   > Calcula tu índice de masa corporal con esta APP !
+   > Calcula tu índice de masa corporal con esta APP ! \n
    > Calculate your BMI with this APP !
   
 
