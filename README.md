@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 *  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/pocket-calculator_1f5a9.png" width="25" height="25">  [Calculadora IMC](https://github.com/AlexMolina08/Calculadora_IMC.git)
-*  <img src="http://www.myiconfinder.com/uploads/iconsets/256-256-cafaa6fde22359df59d31a4928f62193-ipod.png" width="25" height="25">  [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
+*  <img src="https://cdn3.iconfinder.com/data/icons/hardware-1/100/ipod-512.png" width="25" height="25">  [IPOD_UI](https://github.com/AlexMolina08/ipod.git)
 
 ### 🔨 Projects
 * <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
