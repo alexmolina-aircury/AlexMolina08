@@ -50,7 +50,9 @@ Here are some ideas to get you started:
  * <img src="https://cdn.pixabay.com/photo/2018/08/20/19/19/clock-3619716_960_720.png" width="25" height="25">      [**World Time App**](https://github.com/AlexMolina08/world_time_app.git)
    > An app that shows the time in different cities around the world using **World time API**
    
- * *  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/pocket-calculator_1f5a9.png" width="25" height="25">  [**Calculadora IMC**](https://github.com/AlexMolina08/Calculadora_IMC.git)
+ * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/pocket-calculator_1f5a9.png" width="25" height="25">  [**Calculadora IMC**](https://github.com/AlexMolina08/Calculadora_IMC.git)
+   > Calcula tu índice de masa corporal con esta APP !
+   > Calculate your BMI with this APP !
   
 
 
