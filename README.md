@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  * <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/lg/57/pocket-calculator_1f5a9.png" width="25" height="25">  [**Calculadora IMC**](https://github.com/AlexMolina08/Calculadora_IMC.git)
    > Calculate your BMI with this APP !
    
- * ☁️  [**GeoClima**](https://github.com/AlexMolina08/Calculadora_IMC.git)
+ * ☁️  [**GeoClima**](https://github.com/AlexMolina08/GeoClima.git)
    > ☔  An app that shows the weather in your current location as in lot of cities 🌞
    
    
