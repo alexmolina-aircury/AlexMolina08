@@ -35,7 +35,9 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 
-*  <img src="https://cdn3.iconfinder.com/data/icons/hardware-1/100/ipod-512.png" width="25" height="25">  [**IPOD_UI**](https://github.com/AlexMolina08/ipod.git)
+*  <img src="http://www.pngall.com/wp-content/uploads/2016/04/Chat-PNG-HD.png" width="25" height="25">  [**FORUM**](https://github.com/AlexMolina08/Forum.git)
+  > Chatea con todos tus amigos con Forum!
+  > Chat with all your friends with Forum!
 
 ### 🔨 Projects
 * <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
