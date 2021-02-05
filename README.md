@@ -19,7 +19,7 @@ Here are some ideas to get you started:
    * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">       [**Sistemas Operativos**](https://github.com/AlexMolina08/Practicas_SO.git )
    
    
-   * 💻     [**Arquitectura de computadores**](https://github.com/AlexMolina08/OPEN_MPIt)
+   * 💻     [**Arquitectura de computadores**](https://github.com/AlexMolina08/OPEN_MPI)
    
    * <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148" width="25" height="25">       [**Estructura de Computadores**](https://github.com/AlexMolina08/Estructura_De_Computadores.git)
    
