@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on ...
 
 *  <img src="http://www.pngall.com/wp-content/uploads/2016/04/Chat-PNG-HD.png" width="25" height="25">  [**FORUM**](https://github.com/AlexMolina08/Forum.git)
-  > Forum es una app de mensajería. Chatea con todos tus amigos con Forum!
   
-  > Forum is a messenger service app. Chat with all your friends with Forum!
+  > A messenger service app using Firestore
 
 ### 🔨 Projects
 * <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
    > Calculate your BMI with this APP !
    
  * ☁️  [**GeoClima**](https://github.com/AlexMolina08/GeoClima.git)
-   > ☔  An app that shows the weather in your current location as in lot of cities 🌞
+   > ☔  An app that shows the weather in your current location as in lot of cities 
    
    
   
