@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 * **Computer Science**. Universidad de Granada. Granada, Spain.
   > Here I'll publish some practices of my degree , feel free to take a look!
    
+   * <img src="https://olimpiada-logica.webnode.mx/_files/200000084-4165a425d9/700/logo%20olimpiada%20nuevo%20Arbolito%20sin%20fondo%20ni%20letras.png" width="25" height="25">      [**Lógica y métodos discretos**](https://github.com/AlexMolina08/LMD.git)
+   
+   
    * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">       [**Sistemas Operativos**](https://github.com/AlexMolina08/Practicas_SO.git )
    
    
