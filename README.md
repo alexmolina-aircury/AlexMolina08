@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### 🎓 I'm currently enrolled in ...
 
 * **Computer Science**. Universidad de Granada. Spain.
-  > Here I publish some practices of my degree , feel free to take a look!
+  > Here I'll publish some practices of my degree , feel free to take a look!
   
    * 💻     [**Arquitectura de computadores**](https://github.com/AlexMolina08/OPEN_MPI)
 
