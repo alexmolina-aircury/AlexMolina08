@@ -15,23 +15,22 @@ Here are some ideas to get you started:
 
 * **Computer Science**. Universidad de Granada. Spain.
   > Here I publish some practices of my degree , feel free to take a look!
-   
-   * <img src="https://olimpiada-logica.webnode.mx/_files/200000084-4165a425d9/700/logo%20olimpiada%20nuevo%20Arbolito%20sin%20fondo%20ni%20letras.png" width="25" height="25">      [**Lógica y métodos discretos**](https://github.com/AlexMolina08/LMD.git)
-   
+  
+   * 💻     [**Arquitectura de computadores**](https://github.com/AlexMolina08/OPEN_MPI)
+
+   * <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148" width="25" height="25">       [**Estructura de Computadores**](https://github.com/AlexMolina08/Estructura_De_Computadores.git)
+
+
    * <img src="https://img2.freepng.es/20181206/lfy/kisspng-artificial-intelligence-computer-icons-scalable-ve-5c092e57e16667.7007865915441055599232.jpg" width="40" height="25">       [**Inteligencia Artificial**](https://github.com/AlexMolina08/IA.git )
    
-   
-   * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">       [**Sistemas Operativos**](https://github.com/AlexMolina08/Practicas_SO.git )
-   
-   
-   * 💻     [**Arquitectura de computadores**](https://github.com/AlexMolina08/OPEN_MPI)
-   
-   * <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148" width="25" height="25">       [**Estructura de Computadores**](https://github.com/AlexMolina08/Estructura_De_Computadores.git)
+   * <img src="https://olimpiada-logica.webnode.mx/_files/200000084-4165a425d9/700/logo%20olimpiada%20nuevo%20Arbolito%20sin%20fondo%20ni%20letras.png" width="25" height="25">       [**Lógica y métodos discretos**](https://github.com/AlexMolina08/LMD.git)
    
    * <img src="https://cdn.icon-icons.com/icons2/145/PNG/256/memory_ram_hardware_21433.png" width="25" height="25">      [**Metodología de la Programación**](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
-   
+
 
    * <img src="https://icon-library.com/images/parallel-icon/parallel-icon-10.jpg" width="25" height="25">       [**Sistemas Concurrentes y distribuidos**](https://github.com/AlexMolina08/Sistemas_Concurrentes_Distribuidos.git) 
+   
+   * <img src="https://i2.wp.com/www.gladysgbegnedji.com/wp-content/uploads/2016/07/icono-engranaje-project-manager.png?fit=223%2C219&ssl=1" width="25" height="25">       [**Sistemas Operativos**](https://github.com/AlexMolina08/Practicas_SO.git )
    
    * <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png" width="25" height="25">      [**Programación y Diseño orientado a objetos**](https://github.com/AlexMolina08/CivitasJava.git)
    
