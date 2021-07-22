@@ -43,7 +43,10 @@ Here are some ideas to get you started:
   
   > A messenger service app using Firestore
 
-### 🔨 Projects
+* <img src="https://openswad.org/logo/swad1024x1024.png" width="25" height="25">  [**Swapp**](https://github.com/AlexMolina08/Swapp.git)
+
+  > The definitive social network for education
+
 * <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
    > A choose your own adventure game based on Albaicin for Android and ios
 
