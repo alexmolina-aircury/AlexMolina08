@@ -39,13 +39,16 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 
-*  <img src="http://www.pngall.com/wp-content/uploads/2016/04/Chat-PNG-HD.png" width="25" height="25">  [**FORUM**](https://github.com/AlexMolina08/Forum.git)
-  
-  > A messenger service app using Firestore
-
 * <img src="https://openswad.org/logo/swad1024x1024.png" width="25" height="25">  [**Swapp**](https://github.com/AlexMolina08/Swapp.git)
 
   > The definitive social network for education
+
+
+### Projects
+
+*  <img src="http://www.pngall.com/wp-content/uploads/2016/04/Chat-PNG-HD.png" width="25" height="25">  [**FORUM**](https://github.com/AlexMolina08/Forum.git)
+  
+  > A messenger service app using Firestore
 
 * <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
    > A choose your own adventure game based on Albaicin for Android and ios
