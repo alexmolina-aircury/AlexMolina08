@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
    * <img src="https://img2.freepng.es/20181206/lfy/kisspng-artificial-intelligence-computer-icons-scalable-ve-5c092e57e16667.7007865915441055599232.jpg" width="40" height="25">       [**Inteligencia Artificial**](https://github.com/AlexMolina08/IA.git )
    
-   * <img src="https://olimpiada-logica.webnode.mx/_files/200000084-4165a425d9/700/logo%20olimpiada%20nuevo%20Arbolito%20sin%20fondo%20ni%20letras.png" width="25" height="25">       [**Lógica y métodos discretos**](https://github.com/AlexMolina08/LMD.git)
+   * <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/mathematical-logic-1807127-1534165.png" width="25" height="25">       [**Lógica y métodos discretos**](https://github.com/AlexMolina08/LMD.git)
    
    * <img src="https://cdn.icon-icons.com/icons2/145/PNG/256/memory_ram_hardware_21433.png" width="25" height="25">      [**Metodología de la Programación**](https://github.com/AlexMolina08/Metodologia-Programacion-UGR.git)
 
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...
 
-* <img src="https://openswad.org/logo/swad1024x1024.png" width="25" height="25">  [**Swapp**](https://github.com/AlexMolina08/Swapp.git)
+* <img src="https://openswad.org/logo/swad1024x1024.png" width="25" height="25">  [**UGR Swad Mobile App**](https://github.com/AlexMolina08/Swad.git)
 
-  > The definitive social network for education
+  > Android and iOS App that connects to Swad API (a web service hosted in my university). The repository'll be hide until App launch.
 
 
 ### Projects
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   
   > A messenger service app using Firestore
 
-* <img src="https://www.flaticon.es/svg/static/icons/svg/1015/1015683.svg" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
+* <img src="https://amigosdemachado.com/wp-content/uploads/2019/03/albaicin.png" width="25" height="25">      [**Albaicin Adventures**](https://github.com/AlexMolina08/Albaicin-Adventures.git)
    > A choose your own adventure game based on Albaicin for Android and ios
 
 * <img src="https://raw.githubusercontent.com/AlexMolina08/Preguntas-App/master/images/questionIcon.png" width="25" height="25">      [**Quiz Game**](https://github.com/AlexMolina08/Preguntas-App.git)
