@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### Projects
 
 *  <img src="https://github.com/AlexMolina08/Crosscourt/blob/master/src/main/resources/logo.png" width="90" height="90">  [**Crosscourt**](https://github.com/AlexMolina08/Crosscourt.git)
-  > A Java Aplication for my SI class
+  > CrossCourt is a Java Aplication I made during my SI course.
 
 *  <img src="http://www.pngall.com/wp-content/uploads/2016/04/Chat-PNG-HD.png" width="25" height="25">  [**FORUM**](https://github.com/AlexMolina08/Forum.git)
   
