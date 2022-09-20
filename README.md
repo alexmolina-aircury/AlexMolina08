@@ -68,15 +68,13 @@ Here are some ideas to get you started:
    
  * ☁️  [**GeoClima**](https://github.com/AlexMolina08/GeoClima.git)
    > ☔  An app that shows the weather in your current location as in lot of cities 
-   
-   
-  
 
-
-### 🌱 I’m currently learning ...
-
-[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  <img src = "https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white">  [![Inkscape](https://img.shields.io/badge/Inkscape-%23616161.svg?&style=for-the-badge&logo=inkscape&logoColor=white)](https://inkscape.org/es)   [![Figma](https://img.shields.io/badge/figma-512da8.svg?&style=for-the-badge&logo=figma&logoColor=pink)](https://www.figma.com) 
 
 ### 👷 I work with ...
 
- [![C++](https://img.shields.io/badge/C++-%23424242.svg?&style=for-the-badge&logoColor=white)](https://isocpp.org) [![C](https://img.shields.io/badge/C-%23424242.svg?&style=for-the-badge&logoColor=white)](https://en.cppreference.com/w/c/language)  [![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://java.com)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  [![Ubuntu](https://img.shields.io/badge/linux_mint-%2333691e.svg?&style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com) [![LaTeX](https://img.shields.io/badge/latex-%23ba68c8.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/) [![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)   [![Android Studio](https://img.shields.io/badge/android_studio-%23388e3c.svg?&style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio?hl=es)  [![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  
+ [![C++](https://img.shields.io/badge/C++-%23424242.svg?&style=for-the-badge&logoColor=white)](https://isocpp.org) [![C](https://img.shields.io/badge/C-%23424242.svg?&style=for-the-badge&logoColor=white)](https://en.cppreference.com/w/c/language)  [![Java](https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)](https://java.com)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  [![Ubuntu](https://img.shields.io/badge/linux_mint-%2333691e.svg?&style=for-the-badge&logo=linux&logoColor=white)](https://ubuntu.com) [![LaTeX](https://img.shields.io/badge/latex-%23ba68c8.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/) [![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)   [![Android Studio](https://img.shields.io/badge/android_studio-%23388e3c.svg?&style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/studio?hl=es)  [![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)   
+
+
+### 🌱 I’m currently learning ...
+[![Symfony](https://img.shields.io/badge/symfony-%23616161.svg?&style=for-the-badge&logo=symfony&logoColor=white)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/flutter-%2340c4ff.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)  [![Dart](https://img.shields.io/badge/Dart-%230d47a1.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)  <img src = "https://img.shields.io/badge/Javascript-%23ffc400.svg?&style=for-the-badge&logo=javascript&logoColor=white">    [![Figma](https://img.shields.io/badge/figma-512da8.svg?&style=for-the-badge&logo=figma&logoColor=pink)](https://www.figma.com) 
